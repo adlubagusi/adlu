@@ -2,13 +2,9 @@
 
 ## a portfolio for developers
 
-![screenshot](https://adlu.github.io/website.jpg)
+![screenshot](https://adlubagusi.github.io/website.jpg)
 
-[View Live Demo](https://adlu.github.io/)
-
-Attention: This is based on paytonjewell's [react-portfolio-template](https://github.com/paytonjewell/ReactPortfolioTemplate)
-I just added particlets background, OS dark mode detection and watch, Google Analytics.
-Elements redesigned by [Ingrid Fei](https://ingrid0126.com)
+[View Live Demo](https://adlubagusi.github.io/)
 
 
 ### Original README:
@@ -121,17 +117,17 @@ const firebaseConfig = {
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://adlu.github.io/">
+    <meta property="og:url" content="https://adlubagusi.github.io/">
     <meta property="og:title" content="Adlu Bagus I., Full Stack Developer">
     <meta property="og:description" content="Full Stack Developer based in Malang, passionate about building web applications, learning new technologies.">
-    <meta property="og:image" content="https://adlu.github.io/website.jpg">
+    <meta property="og:image" content="https://adlubagusi.github.io/website.jpg">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://adlu.github.io/">
+    <meta property="twitter:url" content="https://adlubagusi.github.io/">
     <meta property="twitter:title" content="Adlu Bagus I., Full Stack Developer">
     <meta property="twitter:description" content="Full Stack Developer based in Malang, passionate about building web applications, learning new technologies.">
-    <meta property="twitter:image" content="https://adlu.github.io/website.jpg">
+    <meta property="twitter:image" content="https://adlubagusi.github.io/website.jpg">
 ```
 
 

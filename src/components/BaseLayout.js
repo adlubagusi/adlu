@@ -70,7 +70,7 @@ export default function BaseLayout() {
             width={'100%'}
           >
             <p>
-              enhence implemented with &hearts; by <a href={'https://adlu.github.io'}>Adlu Bagus I.</a>,
+              enhence implemented with &hearts; by <a href={'https://adlubagusi.github.io'}>Adlu Bagus I.</a>,
             </p>
             <p>&copy; 2023</p>
           </Box>
